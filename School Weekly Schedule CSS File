@@ -1,0 +1,31 @@
+table {
+	width: 1000px;
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 12px;
+	margin: 0 auto;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+
+td, th {
+	border: 1px solid black;
+	text-align: center;
+	padding: 5px;
+}
+
+.red {
+	background-color: red;
+}
+
+mark {
+	background-color: red;
+	color: white;
+}
+
+
+footer {
+	color: black;
+	text-align: center;
+	padding: 10px;
+}
